@@ -18,7 +18,9 @@
   <li>Getting the "Linux Master" Certificate</li>
   <li>Create my own Engineering Blog in github</li>
 </ul>
-<br><br>
+
+
+
 <div>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohsanrim&show_icons=true&theme=dracula)
 </div>
