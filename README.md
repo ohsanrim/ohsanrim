@@ -12,6 +12,8 @@
 <h3>Engineering Blog</h3>
 <a href="https://blog.naver.com/ka28">Ohrin's Blog</a>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohsanrim)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ohsanrim/ohsanrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
