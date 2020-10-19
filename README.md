@@ -13,7 +13,7 @@
 <a href="https://blog.naver.com/ka28">Ohrin's Blog</a>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohsanrim&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohsanrim&show_icons=true&theme=tokyonight)
 
 
 <!--
