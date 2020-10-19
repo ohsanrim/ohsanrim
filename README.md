@@ -11,10 +11,17 @@
 
 <h3>Engineering Blog</h3>
 <a href="https://blog.naver.com/ka28">Ohrin's Blog</a>
-
-
+<h3>Goals for 2020</h3>
+<ul>
+  <li>Complete my own Portfolio</li>
+  <li>Getting the "Engineer Information Processing" Certificate</li>
+  <li>Getting the "Linux Master" Certificate</li>
+  <li>Create my own Engineering Blog in github</li>
+</ul>
+<br><br>
+<div>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohsanrim&show_icons=true&theme=dracula)
-
+</div>
 
 <!--
 **ohsanrim/ohsanrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
