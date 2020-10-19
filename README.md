@@ -1,17 +1,20 @@
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5B7FD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 	
   </div>
 <br><br>
-<a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">웹개발자 곽하린의 포트폴리오</a>
+<h2>👋 Hello, Everyone!</h2>
+<h3>Portfolio</h3>
+<a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
 <h3>Project</h3>
 <ul>
-  <li>MO:RIP Project</li>
-  <li>Cookie-Run Project</li>
+  <li><a href="https://github.com/ohsanrim/CookieRun_project">MO:RIP Project</a></li>
+  <li><a href="https://github.com/ohsanrim/morip">Cookie-Run Project</a></li>
 </ul>
-👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+
+<h3>Engineering Blog</h3>
+<a href="https://blog.naver.com/ka28">Ohrin's Blog</a>
 
 <!--
 **ohsanrim/ohsanrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
