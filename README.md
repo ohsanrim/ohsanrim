@@ -5,8 +5,8 @@
 <a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
 <h3>Project</h3>
 <ul>
-  <li><a href="https://github.com/ohsanrim/CookieRun_project">MO:RIP Project</a></li>
-  <li><a href="https://github.com/ohsanrim/morip">Cookie-Run Project</a></li>
+  <li><a href="https://github.com/ohsanrim/CookieRun_project">Cookie-Run Project</a></li>
+  <li><a href="https://github.com/ohsanrim/morip">MO:RIP Project</a></li>
 </ul>
 
 <h3>Engineering Blog</h3>
