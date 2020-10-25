@@ -3,7 +3,7 @@
 <h2>👋 Hello, Everyone!</h2>
 <h3>Portfolio</h3>
 <a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
-<h3>Project</h3>
+<h3>Project Repositories</h3>
 <ul>
   <li><a href="https://github.com/ohsanrim/CookieRun_project">Cookie-Run Project</a></li>
   <li><a href="https://github.com/ohsanrim/morip">MO:RIP Project</a></li>
