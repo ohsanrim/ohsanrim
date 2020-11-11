@@ -2,7 +2,7 @@
 
 <h2>👋 Hello, Everyone!</h2>
 <h3>Portfolio</h3>
-<a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
+<a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!(incompletion)</a>
 <h3>Project Repositories</h3>
 <ul>
   <li><a href="https://github.com/ohsanrim/CookieRun_project">Cookie-Run Project</a></li>
