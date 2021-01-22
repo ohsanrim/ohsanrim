@@ -12,7 +12,7 @@
 
 <h3>Engineering Blog</h3>
 <a href="https://blog.naver.com/ka28">Ohrin's Blog</a>
-<h3>Goals for 2020</h3>
+<h3>Goals for 2021</h3>
 <ul>
   <li>Complete my own Portfolio</li>
   <li>Getting the "Engineer Information Processing" Certificate</li>
