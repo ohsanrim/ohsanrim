@@ -1,5 +1,5 @@
 
-:scholl:
+:shcool:
 <h2>👋 Hello, Everyone!</h2>
 <h3>Portfolio</h3>
 <a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
