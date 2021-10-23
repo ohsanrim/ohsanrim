@@ -15,7 +15,15 @@
   <li>Complete my own Portfolio</li>
   <li>Getting the "Engineer Information Processing" Certificate</li>
   <li>Getting the "Linux Master" Certificate</li>
-  <li>Create my own Engineering Blog in github</li>
+</ul>
+
+<h3>Studing...</h3>
+<ul>
+  <li>Java</li>
+  <li>Shell script</li>
+  <li>Kotlin</li>
+  <li>Docker</li>
+  <li>Blockchain network</li>
 </ul>
 
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
