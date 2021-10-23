@@ -17,11 +17,11 @@
   <li>Getting the "Linux Master" Certificate</li>
 </ul>
 
-<h3>Studing...</h3>
+<h3>Current Studing...</h3>
 <ul>
   <li>Java</li>
   <li>Shell script</li>
-  <li>Kotlin</li>
+  <li>Kotlin && Android</li>
   <li>Docker</li>
   <li>Blockchain network</li>
 </ul>
