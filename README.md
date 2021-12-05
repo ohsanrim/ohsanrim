@@ -23,7 +23,7 @@
   <li>Shell script</li>
   <li>Kotlin && Android</li>
   <li>Docker</li>
-  <li>Blockchain network</li>
+  <li>Hyperledger(Blockchain)</li>
 </ul>
 
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
