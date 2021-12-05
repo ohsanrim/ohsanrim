@@ -1,4 +1,20 @@
 <h2>👋 Hello, Everyone!</h2>
+<div style="display:flex; justify-content:center;">
+  <img src="https://img.shields.io/badge/Hyperledger%20Fabric-critical?style=flat-square&logo=Hyperledger&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JAVA-blueviolet?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-yellowgreen?style=flat-square&logo=Docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS-sucess?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring-9cf?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MariaDB-ff69b4?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Android-purple?style=flat-square&logo=Android&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Apache-lightgrey?style=flat-square&logo=Apache&logoColor=white"/></a>
+  
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/></a>
+  
+</div>
+
 <h3>Portfolio</h3>
 <a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
 <p style="color:gray;">(incompletion)</p>
