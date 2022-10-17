@@ -26,11 +26,13 @@
 
 <h3>Engineering Blog</h3>
 <a href="https://blog.naver.com/ka28">Ohrin's Blog</a>
-<h3>Goals for 2021</h3>
+<h3>Goals for 2023</h3>
 <ul>
-  <li>Complete my own Portfolio</li>
-  <li>Getting the "Linux Master" Certificate</li>
-  <li>Getting the "information security engineer" Certificate</li>
+  <li>1. 포트폴리오 완성 및 웹 배포(Complete my own Portfolio)</li>
+  <li>2. 개발용 Notion 블로그 생성 (Complete my own Notion Dev Blog)</li>
+  <li>3. 리눅스 마스터 2급 합격(Getting the "Linux Master" Certificate)</li>
+  <li>4. SQLD 합격(Getting the "SQLD" Certificate)</li>
+  <li>5. 정보 보안 기사 합격(Getting the "information security engineer" Certificate)</li>
 </ul>
 
 <h3>Current Studing...</h3>
