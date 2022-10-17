@@ -15,12 +15,13 @@
   
 </div>
 
-<h3>Portfolio</h>
-Job: Java & Server & blockchain Developer
-working with: Blockchain R&D with Hyperledger
+<h3>Portfolio</h3>
+<ul>
+  <li>Job: Java & Server & blockchain Developer</li>
+  <li>Main business: Blockchain R&D with Hyperledger</li>
+  <li><a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a><p style="color:gray;">(incompletion)</p></li>
+</ul>
 
-<a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
-<p style="color:gray;">(incompletion)</p>
 <h3>Project Repositories</h3>
 <ul>
   <li><a href="https://github.com/ohsanrim/CookieRun_project">Cookie-Run Project</a></li>
