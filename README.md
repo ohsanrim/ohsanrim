@@ -29,8 +29,8 @@
 <h3>Goals for 2021</h3>
 <ul>
   <li>Complete my own Portfolio</li>
-  <li>Getting the "Engineer Information Processing" Certificate</li>
   <li>Getting the "Linux Master" Certificate</li>
+  <li>Getting the "information security engineer" Certificate</li>
 </ul>
 
 <h3>Current Studing...</h3>
