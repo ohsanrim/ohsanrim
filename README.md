@@ -33,6 +33,7 @@
   <li>3. 리눅스 마스터 2급 합격(Getting the "Linux Master" Certificate)</li>
   <li>4. SQLD 합격(Getting the "SQLD" Certificate)</li>
   <li>5. 정보 보안 기사 합격(Getting the "information security engineer" Certificate)</li>
+  <li>5. NFT 공부(Studing NFT)</li>
 </ul>
 
 <h3>Current Studing...</h3>
