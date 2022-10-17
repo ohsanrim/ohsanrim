@@ -15,7 +15,10 @@
   
 </div>
 
-<h3>Portfolio</h3>
+<h3>Portfolio</h>
+Job: Java & Server & blockchain Developer
+working with: Blockchain R&D with Hyperledger
+
 <a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a>
 <p style="color:gray;">(incompletion)</p>
 <h3>Project Repositories</h3>
@@ -38,11 +41,10 @@
 
 <h3>Current Studing...</h3>
 <ul>
-  <li>Java</li>
-  <li>Shell script</li>
-  <li>Kotlin && Android</li>
-  <li>Docker</li>
-  <li>Hyperledger(Blockchain)</li>
+  <li>Major: Docker</li>
+  <li>Major: Hyperledger(Blockchain)</li>
+  <li>Major: Java</li>
+  <li>Major: Linux</li>
 </ul>
 
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
