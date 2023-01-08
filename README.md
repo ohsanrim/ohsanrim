@@ -18,6 +18,7 @@
 <h3>Portfolio</h3>
 <ul>
   <li>Job: Java & Server & blockchain Developer</li>
+  <li>Main Skill: Java, MariaDB, Redhat & Linux Shell, Docker, Hyperledger fabric & fabric-ca
   <li>Main business: Blockchain R&D with Hyperledger</li>
   <li><a href="https://ohsanrim.github.io/web-portfolio/harin_portfolio.html">Introduce myself!</a><p style="color:gray;">(incompletion)</p></li>
 </ul>
@@ -37,14 +38,17 @@
   <li>3. 리눅스 마스터 2급 합격(Getting the "Linux Master" Certificate)</li>
   <li>4. 정보 보안 기사 합격(Getting the "information security engineer" Certificate)</li>
   <li>5. NFT 공부(Studing NFT)</li>
+  <li>6. React 공부(Studing React)</li>
 </ul>
 
 <h3>Current Studing...</h3>
 <ul>
   <li>Major: Docker</li>
-  <li>Major: Hyperledger(Blockchain)</li>
+  <li>Major: Hyperledger(Blockchain core)</li>
   <li>Major: Java</li>
-  <li>Major: Linux</li>
+  <li>Major: go</li>
+  <li>Major: React</li>
+  <li>Major: node.js</li>
 </ul>
 
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
