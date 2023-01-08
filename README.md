@@ -43,7 +43,7 @@
 
 <h3>Current Studing...</h3>
 <ul>
-  <li>Major: Docker</li>
+  <li>Major: Docker & Kubernetes</li>
   <li>Major: Hyperledger(Blockchain core)</li>
   <li>Major: Java</li>
   <li>Major: go</li>
