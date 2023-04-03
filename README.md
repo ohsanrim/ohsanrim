@@ -35,10 +35,9 @@
 <ul>
   <li>1. 포트폴리오 완성 및 웹 배포(Complete my own Portfolio)</li>
   <li>2. 개발용 Notion 블로그 생성 (Complete my own Notion Dev Blog)</li>
-  <li>3. 리눅스 마스터 2급 합격(Getting the "Linux Master" Certificate)</li>
-  <li>4. 정보 보안 기사 합격(Getting the "information security engineer" Certificate)</li>
+  <li>3. 정보 보안 기사 합격(Getting the "information security engineer" Certificate)</li>
+  <li>4. React 공부(Studing React)</li>
   <li>5. NFT 공부(Studing NFT)</li>
-  <li>6. React 공부(Studing React)</li>
 </ul>
 
 <h3>Current Studing...</h3>
