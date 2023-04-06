@@ -45,7 +45,6 @@
   <li>Major: Docker & Kubernetes</li>
   <li>Major: Hyperledger(Blockchain core)</li>
   <li>Major: Java</li>
-  <li>Major: go</li>
   <li>Major: React</li>
   <li>Major: node.js</li>
 </ul>
