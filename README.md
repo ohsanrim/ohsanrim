@@ -31,19 +31,15 @@
 
 <h3>Engineering Blog</h3>
 <a href="https://blog.naver.com/ka28">Ohrin's Blog</a>
-<h3>Goals for 2023</h3>
+<h3>Goals for 2025</h3>
 <ul>
   <li>1. 포트폴리오 완성 및 웹 배포(Complete my own Portfolio)</li>
   <li>2. 개발용 Notion 블로그 생성 (Complete my own Notion Dev Blog)</li>
   <li>3. 정보 보안 기사 합격(Getting the "information security engineer" Certificate)</li>
-  <li>4. React 공부(Studing React)</li>
-  <li>5. NFT 공부(Studing NFT)</li>
 </ul>
 
 <h3>Current Studing...</h3>
-<ul>
-  <li>Major: Docker & Kubernetes</li>
-  <li>Major: Hyperledger(Blockchain core)</li>
+<ul> 
   <li>Major: Java</li>
   <li>Major: React</li>
   <li>Major: node.js</li>
